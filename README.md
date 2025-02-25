@@ -1,4 +1,4 @@
-![steganography-tool result 1](https://github.com/user-attachments/assets/be7708ef-8967-40dc-a288-b91839c91461)# stego-Frontend Framework:
+# stego-Frontend Framework:
 
 React 18.3.1 with TypeScript
 Vite as the build tool and development server
